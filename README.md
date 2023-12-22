@@ -17,3 +17,8 @@ Auth: Passport authentication login google
 Backend Deployment: GCP Compute Engine
 
 AI Deployment: 
+
+# API Endpoint
+# Architecture Model
+
+
